@@ -3,4 +3,5 @@
 
 ![](2Dcloth.gif)
 
-Real-time interactive demo using WebGL: https://joaen.github.io/assets/verlet/ 
+## Real-time demo (WebGL)
+https://joaen.github.io/assets/verlet/ 
