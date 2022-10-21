@@ -6,7 +6,7 @@
 
 ![](2Dcloth.gif)
 
-**Compability:** Tested with Unity 2020.3.19f1 LTS
+**Compatibility:** Unity 2020.3.19f1 LTS
 
 ## Real-time demo (WebGL)
 https://joaen.github.io/assets/verlet/ 
